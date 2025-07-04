@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
-<h3 align="center">Computer Science Student, interested in Competitive Programing and Software engineering</h3>
+<h3 align="center">Computer Science Student, interested in Software engineering and Competitive Programming</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamed566666" alt="mohamed566666" /></a> </p>
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1gGmd1vX3CEPv0uibyY-esNSH23tV5i1y](https://drive.google.com/drive/folders/1gGmd1vX3CEPv0uibyY-esNSH23tV5i1y)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-gamal-88a406247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-gamal-88a406247" height="30" width="40" /></a>
+<a href="https://fb.com/mogamal17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mogamal17" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mogamal17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mogamal17" height="30" width="40" /></a>
 </p>
 
