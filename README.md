@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Gamal</h1>
 <h3 align="center">Computer Science Student, interested in Software engineering and Competitive Programming</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1gGmd1vX3CEPv0uibyY-esNSH23tV5i1y](https://drive.google.com/drive/folders/1gGmd1vX3CEPv0uibyY-esNSH23tV5i1y)
+- 📄 my CV [https://drive.google.com/drive/folders/1gGmd1vX3CEPv0uibyY-esNSH23tV5i1y](https://drive.google.com/drive/folders/1gGmd1vX3CEPv0uibyY-esNSH23tV5i1y)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
